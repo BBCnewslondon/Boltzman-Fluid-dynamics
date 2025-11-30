@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/lbm_simulation.dir/src/main.cpp.o CMakeFiles/lbm_simulation.dir/src/LBM.cpp.o -o lbm_simulation 

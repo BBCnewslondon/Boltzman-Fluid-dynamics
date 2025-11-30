@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/workspaces/codespaces-blank/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/lbm_simulation.dir/src/main.cpp.o -c /workspaces/codespaces-blank/src/main.cpp",
+  "file": "/workspaces/codespaces-blank/src/main.cpp",
+  "output": "CMakeFiles/lbm_simulation.dir/src/main.cpp.o"
+},
+{
+  "directory": "/workspaces/codespaces-blank/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/lbm_simulation.dir/src/LBM.cpp.o -c /workspaces/codespaces-blank/src/LBM.cpp",
+  "file": "/workspaces/codespaces-blank/src/LBM.cpp",
+  "output": "CMakeFiles/lbm_simulation.dir/src/LBM.cpp.o"
+}
+]
